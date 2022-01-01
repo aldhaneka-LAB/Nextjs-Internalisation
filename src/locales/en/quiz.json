@@ -1,0 +1,15 @@
+{
+  "result_text": "Your Result",
+  "instruction": "You will be presented with a series of statements. For each one, click the button with your opinion on it.",
+  "buttons": {
+    "strongly_agree": "Strongly Agree",
+    "agree": "Agree",
+    "neutral": "Neutral/Unsure",
+    "disagree": "Disagree",
+    "strongly_disagree": "Strongly Disagree",
+    "back": "Back"
+  },
+  "question_no": "Question {{current}} of {{total}}",
+  "got_it": "Got it!",
+  "back": "Nope, I don't mind!"
+}
